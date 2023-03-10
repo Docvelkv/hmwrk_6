@@ -51,6 +51,20 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Visual Studio cache/options directory
+.vs/*
+
+# Visual Studio auto generated files
+Generated\ Files/
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
 # Translations
 *.mo
 *.pot
